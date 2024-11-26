@@ -1,6 +1,16 @@
 {
+{
     "name": "BooCatCoin",
     "symbol": "BCAT",
     "description": "Boo you scared ? Don't be afraid I'm a friend. I won't hurt you. Come here, come here, sit next to me. Look into my eyes. Can you see me? I see you too. Let's look at each other until our eyes get tired. You don't want to ? Why not ? Is something wrong ?",
     "image": "https://raw.githubusercontent.com/Bludboy789/boocatcoin/refs/heads/main/Boocat.png"
   }
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+247
+tokenStandard:
+2
+}
